@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _atoi - This fuction only prints half of a string
  * @s:  is the pointer to the  source array
